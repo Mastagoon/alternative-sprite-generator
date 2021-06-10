@@ -1,0 +1,2 @@
+1. Extract
+2. Take all files and place them into the data/palette/¸ö Folder
